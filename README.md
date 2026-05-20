@@ -1,6 +1,6 @@
-# Login2Xplore Employee Management System
+# Login2Xplore DEMO Project
 
-A simple Employee Management System built using the Login2Xplore API for storing and managing employee records.
+A simple demo project built using the Login2Xplore API for storing and managing employee records.
 
 ## Overview
 
@@ -131,8 +131,6 @@ Potential improvements for this project:
 - Better UI/UX with modern frameworks
 - Input validation for email format
 - Loading indicators during API calls
-
-## License
 
 This project is provided as-is for educational purposes.
 
