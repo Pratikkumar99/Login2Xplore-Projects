@@ -438,6 +438,6 @@ If you encounter any issues with this specific project implementation, please ch
 
 **Made with ❤️ for learning JsonPowerDB**
 
-[⬆ Back to Top](#student-enrollment-system)
+[Back to Top](#student-enrollment-system)
 
 </div>
